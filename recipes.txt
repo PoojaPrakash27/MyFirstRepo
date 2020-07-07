@@ -7,10 +7,15 @@ this is recipes file
 2. Pasta
 3. Dosa
 4. Burrito
-
+5. Pizza
+6. Falafel
 
 
 
 first menu
 
+
+update 2 items to main menu
+
 finalized
+
