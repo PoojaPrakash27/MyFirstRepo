@@ -13,3 +13,5 @@ this is recipes file
 
 
 first menu
+
+update 2 items to main menu
